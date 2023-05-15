@@ -1,0 +1,10 @@
+kivy[full] @ https://github.com/kivy/kivy/archive/master.zip
+docutils
+yfinance
+webcolors
+pillow
+pygments
+mplfinance
+mysql-connector-python
+mysqlclient
+fsspec
